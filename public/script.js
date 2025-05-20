@@ -1,33 +1,33 @@
 const ALBUMS = [
   {
     title: "Dancing with the silence",
-    cover: "/assignment3/images/cover2.png",
-    audio: "/assignment3/audio/dancing with the silence.wav",
+    cover: "/public/images/cover2.png",
+    audio: "/public/audio/dancing with the silence.wav",
   },
   {
     title: "Luv u",
-    cover: "/assignment3/images/cover3.png",
-    audio: "/assignment3/audio/Luv u.wav",
+    cover: "/public/images/cover3.png",
+    audio: "/public/audio/Luv u.wav",
   },
   {
     title: "Best Memory With You",
-    cover: "/assignment3/images/cover1.png",
-    audio: "/assignment3/audio/Best memory with you.mp3",
+    cover: "/public/images/cover1.png",
+    audio: "/public/audio/Best memory with you.mp3",
   },
   {
     title: "Light",
-    cover: "/assignment3/images/cover4.jpg",
-    audio: "/assignment3/audio/intro_Light.mp3",
+    cover: "/public/images/cover4.jpg",
+    audio: "/public/audio/intro_Light.mp3",
   },
   {
     title: "Memory",
-    cover: "/assignment3/images/cover5.jpg",
-    audio: "/assignment3/audio/memory.mp3",
+    cover: "/public/images/cover5.jpg",
+    audio: "/public/audio/memory.mp3",
   },
   {
     title: "Heart To Hide",
-    cover: "/assignment3/images/cover6.jpg",
-    audio: "/assignment3/audio/Heart to Hide.mp3",
+    cover: "/public/images/cover6.jpg",
+    audio: "/public/audio/Heart to Hide.mp3",
   },
 ];
 
