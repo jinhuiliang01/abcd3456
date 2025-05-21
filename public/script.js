@@ -1,12 +1,12 @@
 const ALBUMS = [
   {
     title: "Dancing with the silence",
-    cover: "/images/cover2.png",
+    cover: "/images/cover2.jpg",
     audio: "/audio/dancing with the silence.wav",
   },
   {
     title: "Luv u",
-    cover: "/images/cover3.png",
+    cover: "/images/cover3.jpg",
     audio: "/audio/Luv u.wav",
   },
   {
