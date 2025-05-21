@@ -1,6 +1,6 @@
 const ALBUMS = [
   {
-    title: "Dancing with the silence",
+    title: "Happy Birthday",
     cover: "/images/cover2.jpg",
     audio: "/audio/dancing with the silence.wav",
   },
