@@ -5,7 +5,7 @@ const ALBUMS = [
     audio: "/audio/dancing with the silence.wav",
   },
   {
-    title: "Luv u",
+    title: "Love",
     cover: "/images/cover3.jpg",
     audio: "/audio/Luv u.wav",
   },
@@ -25,7 +25,7 @@ const ALBUMS = [
     audio: "/audio/memory.mp3",
   },
   {
-    title: "Heart To Hide",
+    title: "Nothing's Gonna Change My Love For You",
     cover: "/images/cover6.jpg",
     audio: "/audio/Heart to Hide.mp3",
   },
