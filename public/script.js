@@ -2,32 +2,32 @@ const ALBUMS = [
   {
     title: "Happy Birthday",
     cover: "/images/cover2.jpg",
-    audio: "/audio/dancing with the silence.wav",
+    audio: "/audio/audio1.mp3",
   },
   {
     title: "Love",
     cover: "/images/cover3.jpg",
-    audio: "/audio/Luv u.wav",
+    audio: "/audio/audio2.mp3",
   },
   {
     title: "Best Memory With You",
     cover: "/images/cover1.png",
-    audio: "/audio/Best memory with you.mp3",
+    audio: "/audio/audio3.mp3",
   },
   {
     title: "Light",
     cover: "/images/cover4.jpg",
-    audio: "/audio/intro_Light.mp3",
+    audio: "/audio/audio4.mp3",
   },
   {
     title: "Memory",
     cover: "/images/cover5.jpg",
-    audio: "/audio/memory.mp3",
+    audio: "/audio/audio5.mp3",
   },
   {
     title: "Nothing's Gonna Change My Love For You",
     cover: "/images/cover6.jpg",
-    audio: "/audio/Heart to Hide.mp3",
+    audio: "/audio/audio6.mp3",
   },
 ];
 
