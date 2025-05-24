@@ -5,27 +5,27 @@ const ALBUMS = [
     audio: "/audio/audio1.mp3",
   },
   {
-    title: "Love",
+    title: "Birthday Bless",
     cover: "/images/cover3.jpg",
     audio: "/audio/audio2.mp3",
   },
   {
-    title: "Best Memory With You",
+    title: "I Love You",
     cover: "/images/cover1.png",
     audio: "/audio/audio3.mp3",
   },
   {
-    title: "Light",
+    title: "You Are My Only",
     cover: "/images/cover4.jpg",
     audio: "/audio/audio4.mp3",
   },
   {
-    title: "Memory",
+    title: "Something I wanna say...",
     cover: "/images/cover5.jpg",
     audio: "/audio/audio5.mp3",
   },
   {
-    title: "Nothing's Gonna Change My Love For You",
+    title: "Love Is Not Alone",
     cover: "/images/cover6.jpg",
     audio: "/audio/audio6.mp3",
   },
